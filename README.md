@@ -32,8 +32,6 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
   
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=CarolineVicente&show_icons=true&theme=radical" alt="CarolineVicente's stats"/>
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineVicente&layout=compact&theme=synthwave" alt="CarolineVicente"/>
-</p>
 
 <br><br>
 
