@@ -5,8 +5,6 @@
 
 - 🔧 Desenvolvedora FrontEnd: HTML, CSS, JavaScript.
 
-- ✏ Aprendendo: React.
-
 - 🚧 Portifólio em construção.
 
 
