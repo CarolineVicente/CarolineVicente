@@ -22,13 +22,6 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 <br><br>
 
 
-## ⚙ &nbsp;GitHub Analytics
-
-<p align="left">
-  
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=CarolineVicente&show_icons=true&theme=radical" alt="CarolineVicente's stats"/>
-
-
 <br><br>
 
 ## &nbsp;Social Links
