@@ -3,8 +3,6 @@
 
 - 📖 Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔧 Desenvolvedora FrontEnd: HTML, CSS, JavaScript.
-
 - 🚧 Portifólio em construção.
 
 
